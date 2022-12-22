@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi! I'm a Backend developer with over 2+ years of experience developing in Javascript with NodeJS and React.
+Hi! I'm a Backend developer with over 2+ years of experience developing in Javascript with NodeJS.
 
 
 ## 🌐 Socials:
