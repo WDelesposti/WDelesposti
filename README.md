@@ -2,7 +2,7 @@
 Hi! I'm a Backend developer with over 2+ years of experience developing in Javascript with NodeJS.
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wallacedelesposti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wallace-delesposti-da-silva) 
 
