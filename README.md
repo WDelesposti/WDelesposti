@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I'm a backend developer with 4 years of experience in Javascript, Typescript, Nodejs, Postgres, Python and other technologies. I'm passionate about creating scalable, performant and secure web applications. I enjoy learning new skills and exploring new challenges.
+I'm a Backend Developer with over 4 years of experience specializing in JavaScript, TypeScript, Node.js, Python, PostgreSQL, and related technologies. Passionate about building scalable, high-performance, and secure web applications, I thrive on tackling complex problems and continuously expanding my technical expertise.
 
 
 ## 🌐 Social:
